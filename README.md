@@ -24,4 +24,4 @@ System operations are controlled by the values found in the first 5 bytes of the
 
 ## Note
 
-This project is implemented as a prototype, so it does not have the equipment to control a lock. I am thinking of adding the necessary equipment for door lock later.
+This project is implemented as a prototype, so it does not have the equipment to control a lock.
